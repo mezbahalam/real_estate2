@@ -10,15 +10,17 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require underscore
-//= require gmaps/google
+
 //= require jquery
 //= require jquery-ui
 //= require jquery_ujs
 //= require gmaps-auto-complete
 //= require turbolinks
 //= require bootstrap
+//= require underscore
+//= require gmaps/google
 //= require jquery.tokeninput
+//= require jquery.tagsinput
 //= require_tree .
 
 
