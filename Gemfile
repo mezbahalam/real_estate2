@@ -28,6 +28,7 @@ end
 
 group :production do
   gem 'pg' #for heroku
+  gem 'rails_12factor'
 end
 
 #require gems
